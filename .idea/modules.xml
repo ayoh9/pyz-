@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/finance-app/finance-app-core/finance-app-core.iml" filepath="$PROJECT_DIR$/finance-app/finance-app-core/finance-app-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finance-app/finance-app-tenant/finance-app-tenant.iml" filepath="$PROJECT_DIR$/finance-app/finance-app-tenant/finance-app-tenant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/payaza.iml" filepath="$PROJECT_DIR$/.idea/payaza.iml" />
+    </modules>
+  </component>
+</project>
